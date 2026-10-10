@@ -2,9 +2,9 @@
 
 A Roblox region system with animated banners, optional music, and per-player lighting.
 
-**[Play the LandMark Showcase on Roblox](https://www.roblox.com/games/130107249243262/landMark-Showcase)**
+**[Play the LandMark Showcase on Roblox](https://www.roblox.com/games/130378547934639/landmark-showcase)**
 
-![Region banner preview](docs/region-banner.jpg)
+![Region banner preview](docs/region-banner.png)
 
 Entry and exit banners appear at the top center of the screen with a transparent background. A large region name sits above a diamond framed by two horizontal lines, with the description underneath. All interface text is in English. Entry sounds, exit sounds, looping region themes, and custom lighting can each be enabled independently.
 

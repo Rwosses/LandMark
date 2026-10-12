@@ -1,3 +1,4 @@
+-- Discord: rwosses | Roblox: 02forze
 -- Client-side region effects use the local character; they never authorize server gameplay actions.
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
